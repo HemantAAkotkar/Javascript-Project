@@ -1,0 +1,37 @@
+.outCard{
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+    background-color: grey;
+    overflow: hidden;
+    border-radius: 10px;
+    /* justify-content: center; */
+}
+.outCard img{
+    padding: 10px;
+}
+.title{
+    font-size: 24px;
+    padding: 9px 0;
+    color: white    ;
+    
+}
+.discription{
+    font-size: 18px;
+    color: #ccc;
+
+}
+.price{
+    font-size: 25px;
+    color: rgb(249, 248, 246);
+}
+.btn{
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: orange;
+}
